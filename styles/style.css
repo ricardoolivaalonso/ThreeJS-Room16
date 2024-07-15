@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: #51538f;
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Inter', sans-serif;
+}
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+	cursor: grab;
+}
+
